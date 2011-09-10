@@ -1,0 +1,13 @@
+.DS_Store
+*.zip
+*/samplejson
+*.dex
+*.class
+*.apk
+*.ap_
+*/R.java
+gen/com/company/viki/R.java
+*.pdf
+*.rtf
+local.properties
+*.classpath
